@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "plataforma": {
+            "nombre": "Twitter"
+           
+        }
+        
+    },
+    {
+        "id": "2",
+        "plataforma": {
+            "nombre": "Facebook"
+            
+        }
+        
+    },
+    {
+        "id": "3",
+        "plataforma": {
+            "nombre": "Youtube"
+            
+        }
+        
+    }
+]
